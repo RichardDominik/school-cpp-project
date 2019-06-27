@@ -1,0 +1,2 @@
+prvok=3
+3 + prvok - 1
